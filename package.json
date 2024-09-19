@@ -27,7 +27,7 @@
     "jsesc": "~0.3.x",
     "lodash.foreach": "^4.5.0",
     "lodash.template": "^4.5.0",
-    "source-map": "~0.1.x"
+    "source-map": "~0.5.7"
   },
   "files": [
     "index.js"
