@@ -1,9 +1,7 @@
 sourcemap-validator
 ===================
 
-[![Build Status](https://travis-ci.org/ben-ng/sourcemap-validator.png)](https://travis-ci.org/ben-ng/sourcemap-validator)
-
-Mapped all the things? Now validate all the maps.
+Maintenance fork of [`sourcemap-validator`](https://github.com/ben-ng/sourcemap-validator).
 
 ## Usage
 

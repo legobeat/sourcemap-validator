@@ -7,7 +7,7 @@
       "url": "http://pirannafs.blogspot.com.es"
     }
   ],
-  "name": "sourcemap-validator",
+  "name": "@lavamoat/sourcemap-validator",
   "description": "Map all the things, check all the maps",
   "license": "MIT",
   "keywords": [
@@ -19,10 +19,10 @@
     "validator",
     "sourcemap"
   ],
-  "version": "2.1.0",
+  "version": "2.1.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ben-ng/sourcemap-validator.git"
+    "url": "git://github.com/LavaMoat/sourcemap-validator.git"
   },
   "dependencies": {
     "jsesc": "~0.3.x",
