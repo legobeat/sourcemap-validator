@@ -25,8 +25,7 @@
   },
   "dependencies": {
     "jsesc": "~0.3.x",
-    "lodash.foreach": "^4.5.0",
-    "lodash.template": "^4.5.0",
+    "lodash": "^4.17.21",
     "source-map": "~0.1.x"
   },
   "files": [
