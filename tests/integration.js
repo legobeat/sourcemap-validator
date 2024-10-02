@@ -3,7 +3,7 @@ var validate = require('..')
   , path = require('path')
   , assert = require('assert')
   , uglify = require('uglify-js')
-  , each = require('lodash.foreach')
+  , each = require('lodash/forEach')
   , libDir = path.join(__dirname, 'fixtures', 'integration')
   , tests = {}
   , fixtures;
