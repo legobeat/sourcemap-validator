@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "jake": "0.7.x",
-    "uglify-js": "2.4.x"
+    "uglify-js": "2.6.x"
   },
   "optionalDependencies": {},
   "packageManager": "yarn@1.22.22",
