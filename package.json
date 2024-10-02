@@ -9,6 +9,7 @@
   ],
   "name": "sourcemap-validator",
   "description": "Map all the things, check all the maps",
+  "license": "MIT",
   "keywords": [
     "uglify",
     "browserify",
